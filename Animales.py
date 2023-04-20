@@ -1,2 +1,2 @@
-class animal: 
+class Animal: 
     pass
